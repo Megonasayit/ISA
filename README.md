@@ -1,5 +1,6 @@
 # ISA
 
+Project of subject Network Applications and Network Administration of BUT FIT Bachelors course. <br />
 Client/server application for transporting encrypted file by ICMP echo messages.
 
 ## Application lauch:
